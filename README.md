@@ -1,4 +1,4 @@
-# Rolldown minify test case
+# Rolldown minify error reduction with cvise and playwright
 
 Context: https://github.com/rolldown/rolldown/issues/6458
 
