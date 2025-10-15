@@ -24,4 +24,4 @@ document.body.appendChild(greeting);
 
 * `cvise --not-c test.sh index.js` and wait a few minutes until it's done.
 
-Afters it's done see `index.js` for the reduced test case.
+After it's done see `index.js` for the reduced test case.
